@@ -7,12 +7,12 @@ import src.main.java.model.User;
 
 public class UserManager implements UserOperations {
 
-    private static final String USER_FILE = "resources/users.csv";  // Path to user data file
+    private static final String CSV_USER_FILE = "resources/users.csv";  // Path to user data file
 
     // Method to load users from file
     public static List<User> loadUsers() {
         List<User> users = new ArrayList<>();
-        try (BufferedReader reader = new BufferedReader(new FileReader(USER_FILE))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader(CSV_USER_FILE))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] userDetails = line.split(",");
@@ -29,7 +29,7 @@ public class UserManager implements UserOperations {
     
     // Method to save user to file
     public static boolean saveUser(User user) {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(USER_FILE, true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(CSV_USER_FILE, true))) {
             writer.write(user.getName() + "," + user.getEmail() + "," + user.getPhoneNumber() + "," + user.getUsername() + "," + user.getPassword());
             writer.newLine();
             return true;
