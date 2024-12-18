@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Email,Phone,Address,MembershipType
+CUST_1478,Customer_1478,customer1478@example.com,+919004192943,Kolkata,Maharashtra,Female,26-35
+CUST_3776,Customer_3776,customer3776@example.com,+918754827487,Chennai,West Bengal,Male,36-45
+CUST_1543,Customer_1543,customer1543@example.com,+919565166163,Jaipur,Tamil Nadu,Female,26-35
+CUST_2809,Customer_2809,customer2809@example.com,+917092525398,Jaipur,West Bengal,Other,26-35
+CUST_1029,Customer_1029,customer1029@example.com,+917395591122,Kolkata,West Bengal,Other,26-35
+CUST_4549,Customer_4549,customer4549@example.com,+919791114134,Delhi,West Bengal,Female,18-25
+CUST_750,Customer_750,customer750@example.com,+919190713963,Hyderabad,Rajasthan,Male,36-45
+CUST_4480,Customer_4480,customer4480@example.com,+917580781415,Hyderabad,Telangana,Other,46-55
+CUST_4589,Customer_4589,customer4589@example.com,+919527385395,Chennai,Maharashtra,Female,18-25
+CUST_1167,Customer_1167,customer1167@example.com,+917832433044,Mumbai,West Bengal,Other,26-35
+CUST_1576,Customer_1576,customer1576@example.com,+918399621331,Pune,Rajasthan,Female,36-45
+CUST_2984,Customer_2984,customer2984@example.com,+918426247369,Bangalore,Maharashtra,Male,46-55
+CUST_799,Customer_799,customer799@example.com,+917454098712,Mumbai,West Bengal,Female,46-55
+CUST_3242,Customer_3242,customer3242@example.com,+917437691951,Kolkata,Karnataka,Female,26-35
+CUST_863,Customer_863,customer863@example.com,+918258600310,Hyderabad,Karnataka,Other,18-25
+CUST_2528,Customer_2528,customer2528@example.com,+917046034398,Chennai,Rajasthan,Male,36-45
+CUST_700,Customer_700,customer700@example.com,+919193163072,Hyderabad,Tamil Nadu,Other,36-45
+CUST_2050,Customer_2050,customer2050@example.com,+917687298040,Delhi,Karnataka,Female,26-35
+CUST_2806,Customer_2806,customer2806@example.com,+918586561505,Hyderabad,Telangana,Other,46-55
+CUST_966,Customer_966,customer966@example.com,+917450760920,Delhi,Maharashtra,Male,18-25
+CUST_2342,Customer_2342,customer2342@example.com,+918442553606,Kolkata,Tamil Nadu,Female,26-35
+CUST_15,Customer_15,customer15@example.com,+917471799495,Chennai,West Bengal,Other,26-35
+CUST_1509,Customer_1509,customer1509@example.com,+917989360483,Delhi,Telangana,Male,46-55
+CUST_1760,Customer_1760,customer1760@example.com,+918102552047,Pune,Tamil Nadu,Female,46-55
+CUST_4650,Customer_4650,customer4650@example.com,+919701956234,Delhi,Karnataka,Female,26-35
+CUST_554,Customer_554,customer554@example.com,+918706430993,Kolkata,Delhi,Male,18-25
+CUST_2857,Customer_2857,customer2857@example.com,+918832126058,Mumbai,Tamil Nadu,Male,36-45
+CUST_2884,Customer_2884,customer2884@example.com,+919698319369,Kolkata,Karnataka,Female,36-45
+CUST_3032,Customer_3032,customer3032@example.com,+917268302845,Kolkata,West Bengal,Male,26-35
+CUST_1799,Customer_1799,customer1799@example.com,+919097854837,Bangalore,Delhi,Female,36-45
+CUST_4295,Customer_4295,customer4295@example.com,+919101806126,Mumbai,Karnataka,Male,18-25
+CUST_549,Customer_549,customer549@example.com,+919400165942,Jaipur,Rajasthan,Male,46-55
+CUST_3392,Customer_3392,customer3392@example.com,+919752504544,Kolkata,Tamil Nadu,Male,18-25
+CUST_4796,Customer_4796,customer4796@example.com,+917398520854,Chennai,Maharashtra,Female,46-55
+CUST_730,Customer_730,customer730@example.com,+918112668748,Mumbai,Maharashtra,Other,36-45
+CUST_1491,Customer_1491,customer1491@example.com,+919628235351,Mumbai,Rajasthan,Female,36-45
+CUST_1522,Customer_1522,customer1522@example.com,+917547293903,Mumbai,West Bengal,Other,26-35
+CUST_3289,Customer_3289,customer3289@example.com,+917225775688,Chennai,Telangana,Female,46-55
+CUST_2447,Customer_2447,customer2447@example.com,+917374873698,Chennai,West Bengal,Male,46-55
+CUST_4369,Customer_4369,customer4369@example.com,+919504062221,Pune,Tamil Nadu,Female,26-35
+CUST_1397,Customer_1397,customer1397@example.com,+917443208714,Kolkata,Delhi,Male,18-25
+CUST_2220,Customer_2220,customer2220@example.com,+917832829777,Kolkata,West Bengal,Male,46-55
+CUST_2208,Customer_2208,customer2208@example.com,+919807975583,Hyderabad,Rajasthan,Other,18-25
+CUST_3763,Customer_3763,customer3763@example.com,+919046297877,Delhi,Maharashtra,Other,18-25
+CUST_2801,Customer_2801,customer2801@example.com,+918940073331,Delhi,Maharashtra,Female,26-35
+CUST_2450,Customer_2450,customer2450@example.com,+919932672781,Bangalore,Delhi,Female,18-25
+CUST_914,Customer_914,customer914@example.com,+919379219267,Delhi,Karnataka,Male,36-45
+CUST_1060,Customer_1060,customer1060@example.com,+919958877037,Pune,Karnataka,Female,36-45
+CUST_3507,Customer_3507,customer3507@example.com,+917316751852,Jaipur,Delhi,Other,46-55
+CUST_3281,Customer_3281,customer3281@example.com,+918831256980,Delhi,Telangana,Male,36-45
+CUST_771,Customer_771,customer771@example.com,+917080099378,Delhi,West Bengal,Female,46-55
+CUST_344,Customer_344,customer344@example.com,+917131438319,Mumbai,Maharashtra,Male,36-45
+CUST_1225,Customer_1225,customer1225@example.com,+918702014234,Jaipur,Telangana,Female,36-45
+CUST_2294,Customer_2294,customer2294@example.com,+917956844954,Delhi,Karnataka,Other,46-55
+CUST_3370,Customer_3370,customer3370@example.com,+918613932971,Hyderabad,Karnataka,Female,26-35
+CUST_1645,Customer_1645,customer1645@example.com,+918337797256,Pune,Karnataka,Male,36-45
+CUST_4469,Customer_4469,customer4469@example.com,+919490925511,Jaipur,Rajasthan,Female,18-25
+CUST_1347,Customer_1347,customer1347@example.com,+919077788309,Pune,Telangana,Other,36-45
+CUST_3876,Customer_3876,customer3876@example.com,+917253266106,Bangalore,Delhi,Male,18-25
+CUST_3047,Customer_3047,customer3047@example.com,+919761943795,Bangalore,Tamil Nadu,Female,26-35
+CUST_2290,Customer_2290,customer2290@example.com,+917471672418,Bangalore,West Bengal,Other,18-25
+CUST_2661,Customer_2661,customer2661@example.com,+918536250339,Jaipur,Telangana,Male,36-45
+CUST_4848,Customer_4848,customer4848@example.com,+919994669481,Jaipur,Rajasthan,Female,36-45
+CUST_1853,Customer_1853,customer1853@example.com,+919835532368,Mumbai,Maharashtra,Female,26-35
+CUST_2950,Customer_2950,customer2950@example.com,+917359566443,Mumbai,Telangana,Female,18-25
+CUST_4035,Customer_4035,customer4035@example.com,+919950238626,Mumbai,West Bengal,Female,46-55
+CUST_1829,Customer_1829,customer1829@example.com,+917179738710,Hyderabad,Rajasthan,Male,36-45
+CUST_2573,Customer_2573,customer2573@example.com,+918142550569,Hyderabad,Delhi,Male,26-35
+CUST_1019,Customer_1019,customer1019@example.com,+918100345233,Mumbai,Karnataka,Male,18-25
+CUST_4632,Customer_4632,customer4632@example.com,+917281062765,Bangalore,Telangana,Other,26-35
+CUST_753,Customer_753,customer753@example.com,+917879869422,Bangalore,Karnataka,Male,36-45
+CUST_2139,Customer_2139,customer2139@example.com,+918742800411,Chennai,Maharashtra,Female,46-55
+CUST_106,Customer_106,customer106@example.com,+918705246741,Kolkata,Maharashtra,Male,18-25
+CUST_4382,Customer_4382,customer4382@example.com,+918598877481,Chennai,Tamil Nadu,Other,18-25
+CUST_1451,Customer_1451,customer1451@example.com,+919977651629,Hyderabad,Rajasthan,Male,36-45
+CUST_4676,Customer_4676,customer4676@example.com,+919086766892,Jaipur,West Bengal,Female,26-35
+CUST_2580,Customer_2580,customer2580@example.com,+918337678146,Chennai,West Bengal,Female,18-25
+CUST_2579,Customer_2579,customer2579@example.com,+918232619066,Chennai,Tamil Nadu,Male,26-35
+CUST_1634,Customer_1634,customer1634@example.com,+917521405384,Kolkata,West Bengal,Other,26-35
+CUST_2762,Customer_2762,customer2762@example.com,+919159130273,Delhi,Karnataka,Female,46-55
+CUST_2873,Customer_2873,customer2873@example.com,+917100232217,Kolkata,Maharashtra,Male,36-45
+CUST_1047,Customer_1047,customer1047@example.com,+918424521852,Jaipur,Maharashtra,Male,18-25
+CUST_237,Customer_237,customer237@example.com,+919641526561,Jaipur,Rajasthan,Other,18-25
+CUST_571,Customer_571,customer571@example.com,+919291397249,Delhi,Rajasthan,Male,18-25
+CUST_1232,Customer_1232,customer1232@example.com,+917317078011,Bangalore,Tamil Nadu,Male,36-45
+CUST_3428,Customer_3428,customer3428@example.com,+917115356675,Hyderabad,Delhi,Other,26-35
+CUST_323,Customer_323,customer323@example.com,+918957893955,Jaipur,Tamil Nadu,Female,18-25
+CUST_4787,Customer_4787,customer4787@example.com,+918211578663,Jaipur,Rajasthan,Other,18-25
+CUST_3719,Customer_3719,customer3719@example.com,+918414995762,Kolkata,Karnataka,Female,46-55
+CUST_1009,Customer_1009,customer1009@example.com,+918953420658,Chennai,Karnataka,Male,46-55
+CUST_2862,Customer_2862,customer2862@example.com,+918594725116,Delhi,Telangana,Other,46-55
+CUST_1965,Customer_1965,customer1965@example.com,+919285119737,Kolkata,Delhi,Male,18-25
+CUST_1531,Customer_1531,customer1531@example.com,+918437404452,Delhi,Rajasthan,Female,46-55
+CUST_1393,Customer_1393,customer1393@example.com,+919006731113,Chennai,West Bengal,Male,46-55
+CUST_2764,Customer_2764,customer2764@example.com,+918039737200,Jaipur,Telangana,Other,26-35
+CUST_4663,Customer_4663,customer4663@example.com,+918596078816,Kolkata,Delhi,Other,36-45
+CUST_3554,Customer_3554,customer3554@example.com,+919554246695,Kolkata,Karnataka,Female,36-45
+CUST_1572,Customer_1572,customer1572@example.com,+919114084034,Hyderabad,Maharashtra,Male,18-25
+CUST_3769,Customer_3769,customer3769@example.com,+917276831523,Chennai,Telangana,Female,26-35
+CUST_2951,Customer_2951,customer2951@example.com,+917521321521,Delhi,Rajasthan,Male,36-45
+CUST_1022,Customer_1022,customer1022@example.com,+917035174711,Delhi,Delhi,Female,46-55
+CUST_686,Customer_686,customer686@example.com,+919137938893,Chennai,Tamil Nadu,Male,18-25
+CUST_2037,Customer_2037,customer2037@example.com,+919415860068,Bangalore,Karnataka,Other,36-45
+CUST_398,Customer_398,customer398@example.com,+917165017989,Jaipur,Karnataka,Other,26-35
+CUST_492,Customer_492,customer492@example.com,+919575367266,Bangalore,Telangana,Other,18-25
+CUST_2940,Customer_2940,customer2940@example.com,+917767198024,Mumbai,Telangana,Other,26-35
+CUST_1532,Customer_1532,customer1532@example.com,+919543547763,Kolkata,Delhi,Other,36-45
+CUST_4989,Customer_4989,customer4989@example.com,+917865067688,Hyderabad,West Bengal,Male,18-25
+CUST_2657,Customer_2657,customer2657@example.com,+917199794875,Delhi,Rajasthan,Female,26-35
+CUST_2637,Customer_2637,customer2637@example.com,+919110688693,Pune,Rajasthan,Female,18-25
+CUST_770,Customer_770,customer770@example.com,+919231643992,Pune,Tamil Nadu,Other,18-25
+CUST_2944,Customer_2944,customer2944@example.com,+919778729636,Chennai,West Bengal,Female,36-45
+CUST_1319,Customer_1319,customer1319@example.com,+919050341202,Kolkata,Telangana,Other,26-35
+CUST_4635,Customer_4635,customer4635@example.com,+918762676538,Jaipur,West Bengal,Other,36-45
+CUST_3313,Customer_3313,customer3313@example.com,+917856808163,Chennai,Rajasthan,Male,46-55
+CUST_1755,Customer_1755,customer1755@example.com,+917194149547,Pune,Tamil Nadu,Other,36-45
+CUST_575,Customer_575,customer575@example.com,+918436017971,Hyderabad,Rajasthan,Other,36-45
+CUST_4927,Customer_4927,customer4927@example.com,+919507358469,Hyderabad,Rajasthan,Other,36-45
+CUST_334,Customer_334,customer334@example.com,+919929787654,Chennai,Karnataka,Male,18-25
+CUST_3134,Customer_3134,customer3134@example.com,+919855399160,Pune,Karnataka,Male,18-25
+CUST_3840,Customer_3840,customer3840@example.com,+919105519957,Hyderabad,Telangana,Female,26-35
+CUST_1141,Customer_1141,customer1141@example.com,+919371039970,Bangalore,Delhi,Other,36-45
+CUST_878,Customer_878,customer878@example.com,+917393092257,Mumbai,Telangana,Male,18-25
+CUST_1594,Customer_1594,customer1594@example.com,+918166807059,Pune,Maharashtra,Female,46-55
+CUST_521,Customer_521,customer521@example.com,+918978760006,Jaipur,Maharashtra,Female,36-45
+CUST_4590,Customer_4590,customer4590@example.com,+919769435122,Hyderabad,Karnataka,Other,26-35
+CUST_4129,Customer_4129,customer4129@example.com,+919351055256,Kolkata,Karnataka,Other,46-55
+CUST_3777,Customer_3777,customer3777@example.com,+917139837454,Delhi,Maharashtra,Other,26-35
+CUST_1610,Customer_1610,customer1610@example.com,+919035925462,Pune,West Bengal,Male,36-45
+CUST_4969,Customer_4969,customer4969@example.com,+918083361993,Jaipur,Tamil Nadu,Other,18-25
+CUST_1888,Customer_1888,customer1888@example.com,+917297376154,Mumbai,West Bengal,Other,46-55
+CUST_3793,Customer_3793,customer3793@example.com,+917899625351,Pune,Tamil Nadu,Female,46-55
+CUST_4139,Customer_4139,customer4139@example.com,+919485890561,Bangalore,West Bengal,Female,26-35
+CUST_3850,Customer_3850,customer3850@example.com,+917410336470,Kolkata,Maharashtra,Male,18-25
+CUST_618,Customer_618,customer618@example.com,+918326734332,Kolkata,Maharashtra,Female,46-55
+CUST_151,Customer_151,customer151@example.com,+917334548212,Bangalore,Rajasthan,Female,36-45
+CUST_3993,Customer_3993,customer3993@example.com,+918768535125,Pune,Karnataka,Other,36-45
+CUST_811,Customer_811,customer811@example.com,+918858303586,Pune,Rajasthan,Female,36-45
+CUST_4600,Customer_4600,customer4600@example.com,+918683460839,Pune,Telangana,Female,36-45
+CUST_1408,Customer_1408,customer1408@example.com,+919980185575,Chennai,Tamil Nadu,Other,36-45
+CUST_4007,Customer_4007,customer4007@example.com,+917504656202,Chennai,Tamil Nadu,Female,26-35
+CUST_3668,Customer_3668,customer3668@example.com,+919713931628,Bangalore,Maharashtra,Other,18-25
+CUST_749,Customer_749,customer749@example.com,+919293642056,Pune,West Bengal,Female,36-45
+CUST_4977,Customer_4977,customer4977@example.com,+918202759177,Pune,Delhi,Male,46-55
+CUST_1795,Customer_1795,customer1795@example.com,+919732203910,Jaipur,West Bengal,Female,36-45
+CUST_4875,Customer_4875,customer4875@example.com,+919368736095,Mumbai,West Bengal,Female,18-25
+CUST_1716,Customer_1716,customer1716@example.com,+919258528690,Bangalore,Delhi,Male,36-45
+CUST_4182,Customer_4182,customer4182@example.com,+919543857959,Jaipur,Karnataka,Female,46-55
+CUST_865,Customer_865,customer865@example.com,+918629384383,Mumbai,Tamil Nadu,Male,36-45
+CUST_4766,Customer_4766,customer4766@example.com,+918871607868,Bangalore,West Bengal,Male,18-25
+CUST_1178,Customer_1178,customer1178@example.com,+919337931437,Mumbai,Karnataka,Male,26-35
+CUST_2632,Customer_2632,customer2632@example.com,+918238014514,Mumbai,Telangana,Female,26-35
+CUST_148,Customer_148,customer148@example.com,+918310437027,Kolkata,Rajasthan,Other,18-25
+CUST_4677,Customer_4677,customer4677@example.com,+918086542050,Bangalore,Rajasthan,Other,18-25
+CUST_1976,Customer_1976,customer1976@example.com,+919839136083,Bangalore,West Bengal,Female,36-45
+CUST_1097,Customer_1097,customer1097@example.com,+919886559751,Jaipur,West Bengal,Other,36-45
+CUST_810,Customer_810,customer810@example.com,+918411617052,Kolkata,Karnataka,Other,18-25
+CUST_105,Customer_105,customer105@example.com,+917237056551,Delhi,Tamil Nadu,Female,46-55
+CUST_1237,Customer_1237,customer1237@example.com,+917946975408,Kolkata,Rajasthan,Female,46-55
+CUST_1893,Customer_1893,customer1893@example.com,+917811635587,Bangalore,Karnataka,Female,26-35
+CUST_1724,Customer_1724,customer1724@example.com,+917620790306,Bangalore,Tamil Nadu,Female,46-55
+CUST_4357,Customer_4357,customer4357@example.com,+918755814567,Kolkata,Rajasthan,Male,18-25
+CUST_4076,Customer_4076,customer4076@example.com,+918745048161,Kolkata,Rajasthan,Other,36-45
+CUST_1849,Customer_1849,customer1849@example.com,+919923017378,Delhi,Rajasthan,Male,46-55
+CUST_2945,Customer_2945,customer2945@example.com,+918729838994,Chennai,Maharashtra,Female,26-35
+CUST_1689,Customer_1689,customer1689@example.com,+918322788414,Pune,Rajasthan,Male,46-55
+CUST_2542,Customer_2542,customer2542@example.com,+917954850332,Jaipur,West Bengal,Male,26-35
+CUST_166,Customer_166,customer166@example.com,+919215455517,Mumbai,Maharashtra,Other,26-35
+CUST_1495,Customer_1495,customer1495@example.com,+917474860123,Pune,Maharashtra,Female,36-45
+CUST_1846,Customer_1846,customer1846@example.com,+918170564688,Kolkata,Rajasthan,Other,46-55
+CUST_3023,Customer_3023,customer3023@example.com,+917394564947,Kolkata,Rajasthan,Male,26-35
+CUST_389,Customer_389,customer389@example.com,+919748753675,Chennai,Delhi,Other,46-55
+CUST_2899,Customer_2899,customer2899@example.com,+917903968673,Delhi,Tamil Nadu,Female,26-35
+CUST_3400,Customer_3400,customer3400@example.com,+917807371749,Mumbai,West Bengal,Male,26-35
+CUST_2184,Customer_2184,customer2184@example.com,+918103122485,Mumbai,Karnataka,Female,36-45
+CUST_3052,Customer_3052,customer3052@example.com,+917574015469,Jaipur,Delhi,Other,18-25
+CUST_4398,Customer_4398,customer4398@example.com,+919300546265,Bangalore,Karnataka,Female,26-35
+CUST_2059,Customer_2059,customer2059@example.com,+918755326121,Delhi,Delhi,Female,18-25
+CUST_3879,Customer_3879,customer3879@example.com,+918840121408,Hyderabad,West Bengal,Male,18-25
+CUST_2734,Customer_2734,customer2734@example.com,+919971419418,Bangalore,Tamil Nadu,Male,26-35
+CUST_1050,Customer_1050,customer1050@example.com,+918745035084,Delhi,Delhi,Male,46-55
+CUST_3983,Customer_3983,customer3983@example.com,+919448705661,Kolkata,Tamil Nadu,Female,18-25
+CUST_3358,Customer_3358,customer3358@example.com,+918610076353,Jaipur,West Bengal,Other,18-25
+CUST_1670,Customer_1670,customer1670@example.com,+919360705959,Jaipur,Telangana,Male,46-55
+CUST_4331,Customer_4331,customer4331@example.com,+918394378878,Chennai,Karnataka,Other,18-25
+CUST_2595,Customer_2595,customer2595@example.com,+919812997506,Delhi,Delhi,Other,26-35
+CUST_3124,Customer_3124,customer3124@example.com,+919546634393,Kolkata,Delhi,Male,26-35
+CUST_3474,Customer_3474,customer3474@example.com,+918305350647,Jaipur,Rajasthan,Female,46-55
+CUST_1961,Customer_1961,customer1961@example.com,+919290262082,Delhi,Tamil Nadu,Female,36-45
+CUST_469,Customer_469,customer469@example.com,+918262181079,Kolkata,Tamil Nadu,Male,26-35
+CUST_3885,Customer_3885,customer3885@example.com,+918465366970,Jaipur,Karnataka,Other,46-55
+CUST_1903,Customer_1903,customer1903@example.com,+918528339343,Delhi,West Bengal,Other,36-45
+CUST_947,Customer_947,customer947@example.com,+919336193578,Chennai,Karnataka,Other,18-25
+CUST_3801,Customer_3801,customer3801@example.com,+917149542619,Delhi,Delhi,Other,18-25
+CUST_490,Customer_490,customer490@example.com,+919296373974,Chennai,Maharashtra,Male,46-55
+CUST_4313,Customer_4313,customer4313@example.com,+917089232791,Pune,Maharashtra,Male,26-35
+CUST_1609,Customer_1609,customer1609@example.com,+918473561594,Mumbai,Telangana,Male,26-35
+CUST_4782,Customer_4782,customer4782@example.com,+919293600012,Jaipur,Karnataka,Other,46-55
+CUST_3132,Customer_3132,customer3132@example.com,+918824768174,Delhi,Maharashtra,Female,46-55
+CUST_3710,Customer_3710,customer3710@example.com,+917051663952,Jaipur,Maharashtra,Male,18-25

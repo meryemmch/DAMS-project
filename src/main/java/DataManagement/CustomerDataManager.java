@@ -1,9 +1,8 @@
 package src.main.java.DataManagement;
-
-import com.opencsv.CSVWriter;
 import src.main.java.model.Customer;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -78,27 +77,29 @@ public class CustomerDataManager implements DataReading<Customer>,
         System.out.println("Analyzing customer data...");
     }
 
-    // Storing data (with Country removed)
+     // Storing data
     @Override
-    public void storeData(List<Customer> data, String filePath) {
-        try (CSVWriter writer = new CSVWriter(new FileWriter(filePath))) {
-            // Write the headers (without the "Country" column)
-            String[] header = {"CustomerID", "CustomerName", "PhoneNumber", "Email", "City", "State", "Gender", "AgeGroup"};
-            writer.writeNext(header);
+public void storeData(List<Customer> data, String outputCustomerFilePath) {
+        System.out.println("Number of records to write: " + data.size());
+        System.out.println(data);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputCustomerFilePath))) {
+            // Write the headers
+            String header = "CustomerID,CustomerName,Email,Phone,Address,MembershipType";
+            writer.write(header);
+            writer.newLine();  // New line after header
 
-            // Write the customer data (excluding the Country field)
+            // Write the customer data
             for (Customer customer : data) {
-                String[] customerData = {
-                    customer.getCustomerId(),          // CustomerID
-                    customer.getName(),                // CustomerName
-                    customer.getPhoneNumber(),         // PhoneNumber
-                    customer.getEmail(),               // Email
-                    customer.getCity(),                // City
-                    customer.getState(),               // State
-                    customer.getGender(),              // Gender
-                    customer.getAgeGroup()             // AgeGroup
-                };
-                writer.writeNext(customerData);
+                String customerData = customer.getCustomerId() + "," +
+                                      customer.getName() + "," +
+                                      customer.getEmail() + "," +
+                                      customer.getPhoneNumber() + "," +
+                                      customer.getCity() + "," +
+                                      customer.getState() + "," +
+                                      customer.getGender() + "," +
+                                      customer.getAgeGroup();
+                writer.write(customerData);
+                writer.newLine();  // New line after each customer record
             }
 
             System.out.println("Customer data has been stored to CSV.");

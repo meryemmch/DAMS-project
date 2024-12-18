@@ -1,5 +1,6 @@
 package src.main.java.DataManagement;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -9,7 +10,6 @@ import java.util.Collections;
 import java.util.stream.Collectors;
 import src.main.java.model.Product;
 
-import com.opencsv.CSVWriter;
 
 public class ProductDataManager implements DataReading<Product>, 
                                             DataProcessing<Product>, 
@@ -73,30 +73,32 @@ public class ProductDataManager implements DataReading<Product>,
       
     }
 
+   
     // Storing data
-    @Override
-    public void storeData(List<Product> data, String filePath) {
-        try (CSVWriter writer = new CSVWriter(new FileWriter(filePath))) {
-            // Write the headers
-            String[] header = {"ProductID", "ProductName", "Category", "SubCategory", "Brand", "Price"};
-            writer.writeNext(header);
+   @Override
+  public void storeData(List<Product> data, String outputProductFilePath) {
+    System.out.println(data);
+    try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputProductFilePath))) {
+        // Write the headers
+        String header = "ProductID,ProductName,Category,SubCategory,Brand,Price";
+        writer.write(header);
+        writer.newLine();  // New line after header
 
-            // Write the product data
-            for (Product product : data) {
-                String[] productData = {
-                    product.getproductId(),
-                    product.getproductName(),
-                    product.getcategory(),
-                    product.getsubCategory(),
-                    product.getbrand(),
-                    String.valueOf(product.getprice())
-                };
-                writer.writeNext(productData);
-            }
-
-            System.out.println("Product data has been stored to CSV.");
-        } catch (IOException e) {
-            System.err.println("Error while writing product data to CSV: " + e.getMessage());
+        // Write the product data
+        for (Product product : data) {
+            String productData = product.getproductId() + "," +
+                                 product.getproductName() + "," +
+                                 product.getcategory() + "," +
+                                 product.getsubCategory() + "," +
+                                 product.getbrand() + "," +
+                                 product.getprice();
+            writer.write(productData);
+            writer.newLine();  // New line after each product
         }
+
+        System.out.println("Product data has been stored to CSV.");
+    } catch (IOException e) {
+        System.err.println("Error while writing product data to CSV: " + e.getMessage());
     }
+}
 }

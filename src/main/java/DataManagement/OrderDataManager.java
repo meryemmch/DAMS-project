@@ -1,5 +1,6 @@
 package src.main.java.DataManagement;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -10,7 +11,7 @@ import java.util.stream.Collectors;
 
 import src.main.java.model.Order;
 
-import com.opencsv.CSVWriter;
+
 
 public class OrderDataManager implements DataReading<Order>, 
                                             DataProcessing<Order>, 
@@ -76,37 +77,38 @@ public class OrderDataManager implements DataReading<Order>,
        
     }
 
-    // Storing data
-    @Override
-    public void storeData(List<Order> data, String filePath) {
-        try (CSVWriter writer = new CSVWriter(new FileWriter(filePath))) {
-            // Write the headers
-            String[] header = {"OrderID", "CustomerID", "ProductID", "SellerID", "Quantity", "OrderDate", "ShippingCost", "DiscountAmount", "PaymentMethod", "TotalAmount", "DeliveryStatus", "ReviewRating"};
-            writer.writeNext(header);
+     // Storing data
+  @Override
+public void storeData(List<Order> data, String outputOrderFilePath) {
+    System.out.println("Number of records to write: " + data.size());
+    try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputOrderFilePath))) {
+        // Write the headers
+        String header = "OrderID,CustomerID,ProductID,SellerID,Quantity,OrderDate,ShippingCost,DiscountAmount,PaymentMethod,TotalAmount,DeliveryStatus,ReviewRating";
+        writer.write(header);
+        writer.newLine();  // New line after header
 
-            // Write the order data
-            for (Order order : data) {
-                String[] orderData = {
-                    order.getOrderId(),
-                    order.getCustomerId(),
-                    order.getProductId(),
-                    order.getSellerId(),
-                    String.valueOf(order.getQuantity()),
-                    order.getOrderDate(),
-                    String.valueOf(order.getShippingCost()),
-                    String.valueOf(order.getDiscountAmount()),
-                    order.getPaymentMethod(),
-                    String.valueOf(order.getTotalAmount()),
-                    order.getDeliveryStatus(),
-                    String.valueOf(order.getReviewRating())
-                };
-                writer.writeNext(orderData);
-            }
-
-            System.out.println("Order data has been stored to CSV.");
-        } catch (IOException e) {
-            System.err.println("Error while writing order data to CSV: " + e.getMessage());
+        // Write the order data
+        for (Order order : data) {
+            String orderData = order.getOrderId() + "," +
+                               order.getCustomerId() + "," +
+                               order.getProductId() + "," +
+                               order.getSellerId() + "," +
+                               order.getQuantity() + "," +
+                               order.getOrderDate() + "," +
+                               order.getShippingCost() + "," +
+                               order.getDiscountAmount() + "," +
+                               order.getPaymentMethod() + "," +
+                               order.getTotalAmount() + "," +
+                               order.getDeliveryStatus() + "," +
+                               order.getReviewRating();
+            writer.write(orderData);
+            writer.newLine();  // New line after each order record
         }
+
+        System.out.println("Order data has been stored to CSV.");
+    } catch (IOException e) {
+        System.err.println("Error while writing order data to CSV: " + e.getMessage());
     }
+}
 }
 
