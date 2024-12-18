@@ -1,201 +1,201 @@
-CustomerID,CustomerName,Email,Phone,Address,MembershipType
-CUST_1478,Customer_1478,customer1478@example.com,+919004192943,Kolkata,Maharashtra,Female,26-35
-CUST_3776,Customer_3776,customer3776@example.com,+918754827487,Chennai,West Bengal,Male,36-45
-CUST_1543,Customer_1543,customer1543@example.com,+919565166163,Jaipur,Tamil Nadu,Female,26-35
-CUST_2809,Customer_2809,customer2809@example.com,+917092525398,Jaipur,West Bengal,Other,26-35
-CUST_1029,Customer_1029,customer1029@example.com,+917395591122,Kolkata,West Bengal,Other,26-35
-CUST_4549,Customer_4549,customer4549@example.com,+919791114134,Delhi,West Bengal,Female,18-25
-CUST_750,Customer_750,customer750@example.com,+919190713963,Hyderabad,Rajasthan,Male,36-45
-CUST_4480,Customer_4480,customer4480@example.com,+917580781415,Hyderabad,Telangana,Other,46-55
-CUST_4589,Customer_4589,customer4589@example.com,+919527385395,Chennai,Maharashtra,Female,18-25
-CUST_1167,Customer_1167,customer1167@example.com,+917832433044,Mumbai,West Bengal,Other,26-35
-CUST_1576,Customer_1576,customer1576@example.com,+918399621331,Pune,Rajasthan,Female,36-45
-CUST_2984,Customer_2984,customer2984@example.com,+918426247369,Bangalore,Maharashtra,Male,46-55
-CUST_799,Customer_799,customer799@example.com,+917454098712,Mumbai,West Bengal,Female,46-55
-CUST_3242,Customer_3242,customer3242@example.com,+917437691951,Kolkata,Karnataka,Female,26-35
-CUST_863,Customer_863,customer863@example.com,+918258600310,Hyderabad,Karnataka,Other,18-25
-CUST_2528,Customer_2528,customer2528@example.com,+917046034398,Chennai,Rajasthan,Male,36-45
-CUST_700,Customer_700,customer700@example.com,+919193163072,Hyderabad,Tamil Nadu,Other,36-45
-CUST_2050,Customer_2050,customer2050@example.com,+917687298040,Delhi,Karnataka,Female,26-35
-CUST_2806,Customer_2806,customer2806@example.com,+918586561505,Hyderabad,Telangana,Other,46-55
-CUST_966,Customer_966,customer966@example.com,+917450760920,Delhi,Maharashtra,Male,18-25
-CUST_2342,Customer_2342,customer2342@example.com,+918442553606,Kolkata,Tamil Nadu,Female,26-35
-CUST_15,Customer_15,customer15@example.com,+917471799495,Chennai,West Bengal,Other,26-35
-CUST_1509,Customer_1509,customer1509@example.com,+917989360483,Delhi,Telangana,Male,46-55
-CUST_1760,Customer_1760,customer1760@example.com,+918102552047,Pune,Tamil Nadu,Female,46-55
-CUST_4650,Customer_4650,customer4650@example.com,+919701956234,Delhi,Karnataka,Female,26-35
-CUST_554,Customer_554,customer554@example.com,+918706430993,Kolkata,Delhi,Male,18-25
-CUST_2857,Customer_2857,customer2857@example.com,+918832126058,Mumbai,Tamil Nadu,Male,36-45
-CUST_2884,Customer_2884,customer2884@example.com,+919698319369,Kolkata,Karnataka,Female,36-45
-CUST_3032,Customer_3032,customer3032@example.com,+917268302845,Kolkata,West Bengal,Male,26-35
-CUST_1799,Customer_1799,customer1799@example.com,+919097854837,Bangalore,Delhi,Female,36-45
-CUST_4295,Customer_4295,customer4295@example.com,+919101806126,Mumbai,Karnataka,Male,18-25
-CUST_549,Customer_549,customer549@example.com,+919400165942,Jaipur,Rajasthan,Male,46-55
-CUST_3392,Customer_3392,customer3392@example.com,+919752504544,Kolkata,Tamil Nadu,Male,18-25
-CUST_4796,Customer_4796,customer4796@example.com,+917398520854,Chennai,Maharashtra,Female,46-55
-CUST_730,Customer_730,customer730@example.com,+918112668748,Mumbai,Maharashtra,Other,36-45
-CUST_1491,Customer_1491,customer1491@example.com,+919628235351,Mumbai,Rajasthan,Female,36-45
-CUST_1522,Customer_1522,customer1522@example.com,+917547293903,Mumbai,West Bengal,Other,26-35
-CUST_3289,Customer_3289,customer3289@example.com,+917225775688,Chennai,Telangana,Female,46-55
-CUST_2447,Customer_2447,customer2447@example.com,+917374873698,Chennai,West Bengal,Male,46-55
-CUST_4369,Customer_4369,customer4369@example.com,+919504062221,Pune,Tamil Nadu,Female,26-35
-CUST_1397,Customer_1397,customer1397@example.com,+917443208714,Kolkata,Delhi,Male,18-25
-CUST_2220,Customer_2220,customer2220@example.com,+917832829777,Kolkata,West Bengal,Male,46-55
-CUST_2208,Customer_2208,customer2208@example.com,+919807975583,Hyderabad,Rajasthan,Other,18-25
-CUST_3763,Customer_3763,customer3763@example.com,+919046297877,Delhi,Maharashtra,Other,18-25
-CUST_2801,Customer_2801,customer2801@example.com,+918940073331,Delhi,Maharashtra,Female,26-35
-CUST_2450,Customer_2450,customer2450@example.com,+919932672781,Bangalore,Delhi,Female,18-25
-CUST_914,Customer_914,customer914@example.com,+919379219267,Delhi,Karnataka,Male,36-45
-CUST_1060,Customer_1060,customer1060@example.com,+919958877037,Pune,Karnataka,Female,36-45
-CUST_3507,Customer_3507,customer3507@example.com,+917316751852,Jaipur,Delhi,Other,46-55
-CUST_3281,Customer_3281,customer3281@example.com,+918831256980,Delhi,Telangana,Male,36-45
-CUST_771,Customer_771,customer771@example.com,+917080099378,Delhi,West Bengal,Female,46-55
-CUST_344,Customer_344,customer344@example.com,+917131438319,Mumbai,Maharashtra,Male,36-45
-CUST_1225,Customer_1225,customer1225@example.com,+918702014234,Jaipur,Telangana,Female,36-45
-CUST_2294,Customer_2294,customer2294@example.com,+917956844954,Delhi,Karnataka,Other,46-55
-CUST_3370,Customer_3370,customer3370@example.com,+918613932971,Hyderabad,Karnataka,Female,26-35
-CUST_1645,Customer_1645,customer1645@example.com,+918337797256,Pune,Karnataka,Male,36-45
-CUST_4469,Customer_4469,customer4469@example.com,+919490925511,Jaipur,Rajasthan,Female,18-25
-CUST_1347,Customer_1347,customer1347@example.com,+919077788309,Pune,Telangana,Other,36-45
-CUST_3876,Customer_3876,customer3876@example.com,+917253266106,Bangalore,Delhi,Male,18-25
-CUST_3047,Customer_3047,customer3047@example.com,+919761943795,Bangalore,Tamil Nadu,Female,26-35
-CUST_2290,Customer_2290,customer2290@example.com,+917471672418,Bangalore,West Bengal,Other,18-25
-CUST_2661,Customer_2661,customer2661@example.com,+918536250339,Jaipur,Telangana,Male,36-45
-CUST_4848,Customer_4848,customer4848@example.com,+919994669481,Jaipur,Rajasthan,Female,36-45
-CUST_1853,Customer_1853,customer1853@example.com,+919835532368,Mumbai,Maharashtra,Female,26-35
-CUST_2950,Customer_2950,customer2950@example.com,+917359566443,Mumbai,Telangana,Female,18-25
-CUST_4035,Customer_4035,customer4035@example.com,+919950238626,Mumbai,West Bengal,Female,46-55
-CUST_1829,Customer_1829,customer1829@example.com,+917179738710,Hyderabad,Rajasthan,Male,36-45
-CUST_2573,Customer_2573,customer2573@example.com,+918142550569,Hyderabad,Delhi,Male,26-35
-CUST_1019,Customer_1019,customer1019@example.com,+918100345233,Mumbai,Karnataka,Male,18-25
-CUST_4632,Customer_4632,customer4632@example.com,+917281062765,Bangalore,Telangana,Other,26-35
-CUST_753,Customer_753,customer753@example.com,+917879869422,Bangalore,Karnataka,Male,36-45
-CUST_2139,Customer_2139,customer2139@example.com,+918742800411,Chennai,Maharashtra,Female,46-55
-CUST_106,Customer_106,customer106@example.com,+918705246741,Kolkata,Maharashtra,Male,18-25
-CUST_4382,Customer_4382,customer4382@example.com,+918598877481,Chennai,Tamil Nadu,Other,18-25
-CUST_1451,Customer_1451,customer1451@example.com,+919977651629,Hyderabad,Rajasthan,Male,36-45
-CUST_4676,Customer_4676,customer4676@example.com,+919086766892,Jaipur,West Bengal,Female,26-35
-CUST_2580,Customer_2580,customer2580@example.com,+918337678146,Chennai,West Bengal,Female,18-25
-CUST_2579,Customer_2579,customer2579@example.com,+918232619066,Chennai,Tamil Nadu,Male,26-35
-CUST_1634,Customer_1634,customer1634@example.com,+917521405384,Kolkata,West Bengal,Other,26-35
-CUST_2762,Customer_2762,customer2762@example.com,+919159130273,Delhi,Karnataka,Female,46-55
-CUST_2873,Customer_2873,customer2873@example.com,+917100232217,Kolkata,Maharashtra,Male,36-45
-CUST_1047,Customer_1047,customer1047@example.com,+918424521852,Jaipur,Maharashtra,Male,18-25
-CUST_237,Customer_237,customer237@example.com,+919641526561,Jaipur,Rajasthan,Other,18-25
-CUST_571,Customer_571,customer571@example.com,+919291397249,Delhi,Rajasthan,Male,18-25
-CUST_1232,Customer_1232,customer1232@example.com,+917317078011,Bangalore,Tamil Nadu,Male,36-45
-CUST_3428,Customer_3428,customer3428@example.com,+917115356675,Hyderabad,Delhi,Other,26-35
-CUST_323,Customer_323,customer323@example.com,+918957893955,Jaipur,Tamil Nadu,Female,18-25
-CUST_4787,Customer_4787,customer4787@example.com,+918211578663,Jaipur,Rajasthan,Other,18-25
-CUST_3719,Customer_3719,customer3719@example.com,+918414995762,Kolkata,Karnataka,Female,46-55
-CUST_1009,Customer_1009,customer1009@example.com,+918953420658,Chennai,Karnataka,Male,46-55
-CUST_2862,Customer_2862,customer2862@example.com,+918594725116,Delhi,Telangana,Other,46-55
-CUST_1965,Customer_1965,customer1965@example.com,+919285119737,Kolkata,Delhi,Male,18-25
-CUST_1531,Customer_1531,customer1531@example.com,+918437404452,Delhi,Rajasthan,Female,46-55
-CUST_1393,Customer_1393,customer1393@example.com,+919006731113,Chennai,West Bengal,Male,46-55
-CUST_2764,Customer_2764,customer2764@example.com,+918039737200,Jaipur,Telangana,Other,26-35
-CUST_4663,Customer_4663,customer4663@example.com,+918596078816,Kolkata,Delhi,Other,36-45
-CUST_3554,Customer_3554,customer3554@example.com,+919554246695,Kolkata,Karnataka,Female,36-45
-CUST_1572,Customer_1572,customer1572@example.com,+919114084034,Hyderabad,Maharashtra,Male,18-25
-CUST_3769,Customer_3769,customer3769@example.com,+917276831523,Chennai,Telangana,Female,26-35
-CUST_2951,Customer_2951,customer2951@example.com,+917521321521,Delhi,Rajasthan,Male,36-45
-CUST_1022,Customer_1022,customer1022@example.com,+917035174711,Delhi,Delhi,Female,46-55
-CUST_686,Customer_686,customer686@example.com,+919137938893,Chennai,Tamil Nadu,Male,18-25
-CUST_2037,Customer_2037,customer2037@example.com,+919415860068,Bangalore,Karnataka,Other,36-45
-CUST_398,Customer_398,customer398@example.com,+917165017989,Jaipur,Karnataka,Other,26-35
-CUST_492,Customer_492,customer492@example.com,+919575367266,Bangalore,Telangana,Other,18-25
-CUST_2940,Customer_2940,customer2940@example.com,+917767198024,Mumbai,Telangana,Other,26-35
-CUST_1532,Customer_1532,customer1532@example.com,+919543547763,Kolkata,Delhi,Other,36-45
-CUST_4989,Customer_4989,customer4989@example.com,+917865067688,Hyderabad,West Bengal,Male,18-25
-CUST_2657,Customer_2657,customer2657@example.com,+917199794875,Delhi,Rajasthan,Female,26-35
-CUST_2637,Customer_2637,customer2637@example.com,+919110688693,Pune,Rajasthan,Female,18-25
-CUST_770,Customer_770,customer770@example.com,+919231643992,Pune,Tamil Nadu,Other,18-25
-CUST_2944,Customer_2944,customer2944@example.com,+919778729636,Chennai,West Bengal,Female,36-45
-CUST_1319,Customer_1319,customer1319@example.com,+919050341202,Kolkata,Telangana,Other,26-35
-CUST_4635,Customer_4635,customer4635@example.com,+918762676538,Jaipur,West Bengal,Other,36-45
-CUST_3313,Customer_3313,customer3313@example.com,+917856808163,Chennai,Rajasthan,Male,46-55
-CUST_1755,Customer_1755,customer1755@example.com,+917194149547,Pune,Tamil Nadu,Other,36-45
-CUST_575,Customer_575,customer575@example.com,+918436017971,Hyderabad,Rajasthan,Other,36-45
-CUST_4927,Customer_4927,customer4927@example.com,+919507358469,Hyderabad,Rajasthan,Other,36-45
-CUST_334,Customer_334,customer334@example.com,+919929787654,Chennai,Karnataka,Male,18-25
-CUST_3134,Customer_3134,customer3134@example.com,+919855399160,Pune,Karnataka,Male,18-25
-CUST_3840,Customer_3840,customer3840@example.com,+919105519957,Hyderabad,Telangana,Female,26-35
-CUST_1141,Customer_1141,customer1141@example.com,+919371039970,Bangalore,Delhi,Other,36-45
-CUST_878,Customer_878,customer878@example.com,+917393092257,Mumbai,Telangana,Male,18-25
-CUST_1594,Customer_1594,customer1594@example.com,+918166807059,Pune,Maharashtra,Female,46-55
-CUST_521,Customer_521,customer521@example.com,+918978760006,Jaipur,Maharashtra,Female,36-45
-CUST_4590,Customer_4590,customer4590@example.com,+919769435122,Hyderabad,Karnataka,Other,26-35
-CUST_4129,Customer_4129,customer4129@example.com,+919351055256,Kolkata,Karnataka,Other,46-55
-CUST_3777,Customer_3777,customer3777@example.com,+917139837454,Delhi,Maharashtra,Other,26-35
-CUST_1610,Customer_1610,customer1610@example.com,+919035925462,Pune,West Bengal,Male,36-45
-CUST_4969,Customer_4969,customer4969@example.com,+918083361993,Jaipur,Tamil Nadu,Other,18-25
-CUST_1888,Customer_1888,customer1888@example.com,+917297376154,Mumbai,West Bengal,Other,46-55
-CUST_3793,Customer_3793,customer3793@example.com,+917899625351,Pune,Tamil Nadu,Female,46-55
-CUST_4139,Customer_4139,customer4139@example.com,+919485890561,Bangalore,West Bengal,Female,26-35
-CUST_3850,Customer_3850,customer3850@example.com,+917410336470,Kolkata,Maharashtra,Male,18-25
-CUST_618,Customer_618,customer618@example.com,+918326734332,Kolkata,Maharashtra,Female,46-55
-CUST_151,Customer_151,customer151@example.com,+917334548212,Bangalore,Rajasthan,Female,36-45
-CUST_3993,Customer_3993,customer3993@example.com,+918768535125,Pune,Karnataka,Other,36-45
-CUST_811,Customer_811,customer811@example.com,+918858303586,Pune,Rajasthan,Female,36-45
-CUST_4600,Customer_4600,customer4600@example.com,+918683460839,Pune,Telangana,Female,36-45
-CUST_1408,Customer_1408,customer1408@example.com,+919980185575,Chennai,Tamil Nadu,Other,36-45
-CUST_4007,Customer_4007,customer4007@example.com,+917504656202,Chennai,Tamil Nadu,Female,26-35
-CUST_3668,Customer_3668,customer3668@example.com,+919713931628,Bangalore,Maharashtra,Other,18-25
-CUST_749,Customer_749,customer749@example.com,+919293642056,Pune,West Bengal,Female,36-45
-CUST_4977,Customer_4977,customer4977@example.com,+918202759177,Pune,Delhi,Male,46-55
-CUST_1795,Customer_1795,customer1795@example.com,+919732203910,Jaipur,West Bengal,Female,36-45
-CUST_4875,Customer_4875,customer4875@example.com,+919368736095,Mumbai,West Bengal,Female,18-25
-CUST_1716,Customer_1716,customer1716@example.com,+919258528690,Bangalore,Delhi,Male,36-45
-CUST_4182,Customer_4182,customer4182@example.com,+919543857959,Jaipur,Karnataka,Female,46-55
-CUST_865,Customer_865,customer865@example.com,+918629384383,Mumbai,Tamil Nadu,Male,36-45
-CUST_4766,Customer_4766,customer4766@example.com,+918871607868,Bangalore,West Bengal,Male,18-25
-CUST_1178,Customer_1178,customer1178@example.com,+919337931437,Mumbai,Karnataka,Male,26-35
-CUST_2632,Customer_2632,customer2632@example.com,+918238014514,Mumbai,Telangana,Female,26-35
-CUST_148,Customer_148,customer148@example.com,+918310437027,Kolkata,Rajasthan,Other,18-25
-CUST_4677,Customer_4677,customer4677@example.com,+918086542050,Bangalore,Rajasthan,Other,18-25
-CUST_1976,Customer_1976,customer1976@example.com,+919839136083,Bangalore,West Bengal,Female,36-45
-CUST_1097,Customer_1097,customer1097@example.com,+919886559751,Jaipur,West Bengal,Other,36-45
-CUST_810,Customer_810,customer810@example.com,+918411617052,Kolkata,Karnataka,Other,18-25
-CUST_105,Customer_105,customer105@example.com,+917237056551,Delhi,Tamil Nadu,Female,46-55
-CUST_1237,Customer_1237,customer1237@example.com,+917946975408,Kolkata,Rajasthan,Female,46-55
-CUST_1893,Customer_1893,customer1893@example.com,+917811635587,Bangalore,Karnataka,Female,26-35
-CUST_1724,Customer_1724,customer1724@example.com,+917620790306,Bangalore,Tamil Nadu,Female,46-55
-CUST_4357,Customer_4357,customer4357@example.com,+918755814567,Kolkata,Rajasthan,Male,18-25
-CUST_4076,Customer_4076,customer4076@example.com,+918745048161,Kolkata,Rajasthan,Other,36-45
-CUST_1849,Customer_1849,customer1849@example.com,+919923017378,Delhi,Rajasthan,Male,46-55
-CUST_2945,Customer_2945,customer2945@example.com,+918729838994,Chennai,Maharashtra,Female,26-35
-CUST_1689,Customer_1689,customer1689@example.com,+918322788414,Pune,Rajasthan,Male,46-55
-CUST_2542,Customer_2542,customer2542@example.com,+917954850332,Jaipur,West Bengal,Male,26-35
-CUST_166,Customer_166,customer166@example.com,+919215455517,Mumbai,Maharashtra,Other,26-35
-CUST_1495,Customer_1495,customer1495@example.com,+917474860123,Pune,Maharashtra,Female,36-45
-CUST_1846,Customer_1846,customer1846@example.com,+918170564688,Kolkata,Rajasthan,Other,46-55
-CUST_3023,Customer_3023,customer3023@example.com,+917394564947,Kolkata,Rajasthan,Male,26-35
-CUST_389,Customer_389,customer389@example.com,+919748753675,Chennai,Delhi,Other,46-55
-CUST_2899,Customer_2899,customer2899@example.com,+917903968673,Delhi,Tamil Nadu,Female,26-35
-CUST_3400,Customer_3400,customer3400@example.com,+917807371749,Mumbai,West Bengal,Male,26-35
-CUST_2184,Customer_2184,customer2184@example.com,+918103122485,Mumbai,Karnataka,Female,36-45
-CUST_3052,Customer_3052,customer3052@example.com,+917574015469,Jaipur,Delhi,Other,18-25
-CUST_4398,Customer_4398,customer4398@example.com,+919300546265,Bangalore,Karnataka,Female,26-35
-CUST_2059,Customer_2059,customer2059@example.com,+918755326121,Delhi,Delhi,Female,18-25
-CUST_3879,Customer_3879,customer3879@example.com,+918840121408,Hyderabad,West Bengal,Male,18-25
-CUST_2734,Customer_2734,customer2734@example.com,+919971419418,Bangalore,Tamil Nadu,Male,26-35
-CUST_1050,Customer_1050,customer1050@example.com,+918745035084,Delhi,Delhi,Male,46-55
-CUST_3983,Customer_3983,customer3983@example.com,+919448705661,Kolkata,Tamil Nadu,Female,18-25
-CUST_3358,Customer_3358,customer3358@example.com,+918610076353,Jaipur,West Bengal,Other,18-25
-CUST_1670,Customer_1670,customer1670@example.com,+919360705959,Jaipur,Telangana,Male,46-55
-CUST_4331,Customer_4331,customer4331@example.com,+918394378878,Chennai,Karnataka,Other,18-25
-CUST_2595,Customer_2595,customer2595@example.com,+919812997506,Delhi,Delhi,Other,26-35
-CUST_3124,Customer_3124,customer3124@example.com,+919546634393,Kolkata,Delhi,Male,26-35
-CUST_3474,Customer_3474,customer3474@example.com,+918305350647,Jaipur,Rajasthan,Female,46-55
-CUST_1961,Customer_1961,customer1961@example.com,+919290262082,Delhi,Tamil Nadu,Female,36-45
-CUST_469,Customer_469,customer469@example.com,+918262181079,Kolkata,Tamil Nadu,Male,26-35
-CUST_3885,Customer_3885,customer3885@example.com,+918465366970,Jaipur,Karnataka,Other,46-55
-CUST_1903,Customer_1903,customer1903@example.com,+918528339343,Delhi,West Bengal,Other,36-45
-CUST_947,Customer_947,customer947@example.com,+919336193578,Chennai,Karnataka,Other,18-25
-CUST_3801,Customer_3801,customer3801@example.com,+917149542619,Delhi,Delhi,Other,18-25
-CUST_490,Customer_490,customer490@example.com,+919296373974,Chennai,Maharashtra,Male,46-55
-CUST_4313,Customer_4313,customer4313@example.com,+917089232791,Pune,Maharashtra,Male,26-35
-CUST_1609,Customer_1609,customer1609@example.com,+918473561594,Mumbai,Telangana,Male,26-35
-CUST_4782,Customer_4782,customer4782@example.com,+919293600012,Jaipur,Karnataka,Other,46-55
-CUST_3132,Customer_3132,customer3132@example.com,+918824768174,Delhi,Maharashtra,Female,46-55
-CUST_3710,Customer_3710,customer3710@example.com,+917051663952,Jaipur,Maharashtra,Male,18-25
+OrderID,CustomerID,ProductID,SellerID,Quantity,OrderDate,ShippingCost,DiscountAmount,PaymentMethod,TotalAmount,DeliveryStatus,ReviewRating
+ORD_17223,CUST_104,PROD_7168,SELL_853,2,2023-05-06,8.13,41.18,UPI,3857.91,Cancelled,2
+ORD_14660,CUST_909,PROD_1650,SELL_557,1,2023-04-17,15.69,27.74,UPI,466.7,Delivered,4
+ORD_49424,CUST_3000,PROD_9678,SELL_628,1,2023-12-26,42.59,197.71,Net Banking,1260.21,Delivered,4
+ORD_32751,CUST_2650,PROD_7435,SELL_525,4,2023-08-27,39.46,67.93,Debit Card,7225.01,Cancelled,5
+ORD_37196,CUST_261,PROD_1033,SELL_52,4,2023-09-28,35.49,128.48,Credit Card,4783.85,Cancelled,5
+ORD_35140,CUST_155,PROD_8354,SELL_765,5,2023-09-13,39.32,48.04,Debit Card,6564.88,Cancelled,2
+ORD_17994,CUST_4591,PROD_3852,SELL_207,4,2023-05-11,31.75,128.15,UPI,2998.24,Cancelled,5
+ORD_43355,CUST_533,PROD_765,SELL_998,5,2023-11-12,37.15,101.65,UPI,2353.2,Delivered,4
+ORD_2173,CUST_4042,PROD_4102,SELL_571,2,2023-01-16,8.48,94.65,Credit Card,1577.65,Cancelled,5
+ORD_6960,CUST_3765,PROD_2543,SELL_299,5,2023-02-20,28.32,10.58,Cash on Delivery,985.69,Cancelled,3
+ORD_29213,CUST_4794,PROD_9568,SELL_316,2,2023-08-01,11.5,43.23,Net Banking,3802.79,Delivered,1
+ORD_28284,CUST_4423,PROD_3493,SELL_319,4,2023-07-25,24.93,186.13,UPI,2145.44,Delivered,4
+ORD_34624,CUST_279,PROD_9991,SELL_239,1,2023-09-10,12.34,31.46,Credit Card,1216.57,Delivered,5
+ORD_22188,CUST_674,PROD_7519,SELL_178,4,2023-06-11,30.91,129.43,Net Banking,3650.64,Pending,3
+ORD_37266,CUST_4139,PROD_8314,SELL_620,5,2023-09-29,41.82,116.5,Credit Card,7055.32,Cancelled,1
+ORD_30510,CUST_2453,PROD_6373,SELL_251,3,2023-08-11,44.18,92.73,Net Banking,1271.15,Cancelled,2
+ORD_13166,CUST_1917,PROD_1258,SELL_458,5,2023-04-06,31.4,177.37,Cash on Delivery,3790.23,Delivered,5
+ORD_23816,CUST_2375,PROD_1743,SELL_908,5,2023-06-23,23.0,154.28,Net Banking,6493.47,Cancelled,1
+ORD_6932,CUST_3797,PROD_4919,SELL_641,5,2023-02-20,23.76,112.86,UPI,5233.1,Pending,4
+ORD_16864,CUST_2796,PROD_6290,SELL_749,2,2023-05-03,41.84,41.4,Cash on Delivery,948.38,Pending,1
+ORD_33265,CUST_1645,PROD_3056,SELL_393,1,2023-08-31,40.22,131.36,UPI,1440.52,Cancelled,5
+ORD_27350,CUST_3721,PROD_3793,SELL_971,3,2023-07-19,19.59,198.6,Net Banking,2195.88,Pending,3
+ORD_4328,CUST_3260,PROD_3213,SELL_396,5,2023-02-01,12.59,181.39,Debit Card,3264.95,Delivered,1
+ORD_39221,CUST_1131,PROD_3448,SELL_436,5,2023-10-13,26.68,185.76,Credit Card,5184.27,Delivered,2
+ORD_49787,CUST_180,PROD_3878,SELL_978,1,2023-12-29,15.54,139.81,Credit Card,578.95,Cancelled,3
+ORD_47531,CUST_864,PROD_7546,SELL_921,2,2023-12-13,31.12,89.15,UPI,1816.03,Pending,5
+ORD_2964,CUST_4824,PROD_7988,SELL_287,1,2023-01-22,25.47,158.34,Debit Card,189.13,Delivered,2
+ORD_8623,CUST_3263,PROD_7404,SELL_242,5,2023-03-04,23.3,101.34,Credit Card,4365.26,Delivered,5
+ORD_32973,CUST_3659,PROD_6065,SELL_8,1,2023-08-29,37.81,66.33,UPI,863.68,Cancelled,1
+ORD_37607,CUST_4004,PROD_3839,SELL_398,5,2023-10-01,5.96,103.1,Credit Card,181.51,Pending,2
+ORD_11695,CUST_3370,PROD_5490,SELL_549,5,2023-03-27,7.94,29.12,Net Banking,4627.57,Cancelled,4
+ORD_9173,CUST_3839,PROD_4942,SELL_443,3,2023-03-08,47.4,121.88,Cash on Delivery,2610.52,Pending,3
+ORD_16015,CUST_64,PROD_5364,SELL_86,4,2023-04-27,8.02,52.8,Credit Card,6348.02,Delivered,5
+ORD_15953,CUST_1960,PROD_7660,SELL_119,5,2023-04-27,12.56,31.0,Credit Card,7492.31,Cancelled,1
+ORD_8202,CUST_4234,PROD_7713,SELL_61,3,2023-03-01,10.83,2.16,Net Banking,2650.83,Cancelled,4
+ORD_19853,CUST_4775,PROD_8051,SELL_975,5,2023-05-25,14.56,27.94,UPI,2934.97,Pending,1
+ORD_37637,CUST_2780,PROD_2835,SELL_587,2,2023-10-01,42.66,74.46,Credit Card,1098.4,Pending,1
+ORD_18202,CUST_3003,PROD_2599,SELL_241,2,2023-05-13,26.43,12.13,Net Banking,1775.74,Delivered,3
+ORD_26424,CUST_1726,PROD_7010,SELL_688,3,2023-07-12,11.49,197.36,Credit Card,4047.01,Pending,4
+ORD_12784,CUST_99,PROD_4536,SELL_85,4,2023-04-04,14.58,20.81,Credit Card,1746.13,Delivered,2
+ORD_35008,CUST_4314,PROD_3141,SELL_491,4,2023-09-12,19.38,72.79,UPI,3593.43,Delivered,2
+ORD_30824,CUST_2161,PROD_771,SELL_868,4,2023-08-13,10.44,32.75,Cash on Delivery,6285.97,Pending,1
+ORD_31490,CUST_1453,PROD_1408,SELL_969,3,2023-08-18,23.49,115.72,Debit Card,3969.71,Delivered,4
+ORD_23286,CUST_841,PROD_1732,SELL_889,2,2023-06-19,22.28,63.78,Debit Card,224.64,Cancelled,4
+ORD_17392,CUST_3300,PROD_8405,SELL_582,1,2023-05-07,26.06,117.39,Cash on Delivery,1107.35,Cancelled,4
+ORD_36260,CUST_3456,PROD_5481,SELL_120,4,2023-09-21,3.71,89.0,Cash on Delivery,6394.15,Cancelled,3
+ORD_1303,CUST_3049,PROD_1029,SELL_184,5,2023-01-10,6.69,42.44,Cash on Delivery,9465.95,Pending,1
+ORD_42214,CUST_1836,PROD_3206,SELL_689,4,2023-11-04,35.73,16.86,Debit Card,3625.11,Pending,3
+ORD_20166,CUST_1481,PROD_4561,SELL_779,4,2023-05-27,13.38,82.3,Credit Card,5316.32,Delivered,1
+ORD_25062,CUST_984,PROD_8790,SELL_236,1,2023-07-02,23.75,170.64,UPI,611.85,Delivered,4
+ORD_19116,CUST_630,PROD_8553,SELL_532,3,2023-05-20,49.61,191.94,Credit Card,5214.11,Delivered,5
+ORD_43591,CUST_3607,PROD_1088,SELL_934,2,2023-11-14,29.6,98.8,Debit Card,-25.42,Pending,4
+ORD_35209,CUST_1670,PROD_2920,SELL_278,5,2023-09-14,9.81,31.6,Net Banking,2915.21,Cancelled,1
+ORD_30554,CUST_3189,PROD_4208,SELL_172,2,2023-08-11,14.03,179.51,Net Banking,1005.76,Delivered,5
+ORD_45650,CUST_3726,PROD_7273,SELL_654,4,2023-11-29,42.82,130.75,Net Banking,5345.31,Pending,3
+ORD_9384,CUST_4597,PROD_299,SELL_161,1,2023-03-10,14.27,12.78,Net Banking,349.51,Delivered,1
+ORD_10396,CUST_106,PROD_9036,SELL_345,5,2023-03-17,26.59,149.39,Cash on Delivery,7980.4,Pending,1
+ORD_43488,CUST_2441,PROD_911,SELL_256,3,2023-11-13,34.07,49.83,UPI,5167.73,Pending,5
+ORD_208,CUST_1422,PROD_8452,SELL_757,4,2023-01-02,2.7,45.86,Cash on Delivery,7237.56,Cancelled,2
+ORD_16694,CUST_398,PROD_1812,SELL_322,2,2023-05-02,26.05,14.89,Cash on Delivery,83.1,Pending,4
+ORD_48836,CUST_80,PROD_5565,SELL_290,3,2023-12-22,6.7,0.92,Debit Card,2980.01,Delivered,5
+ORD_42492,CUST_4568,PROD_7349,SELL_371,4,2023-11-06,16.25,161.61,UPI,6730.76,Pending,5
+ORD_11570,CUST_1650,PROD_5740,SELL_427,2,2023-03-26,27.02,128.23,Debit Card,2477.09,Delivered,1
+ORD_5765,CUST_1719,PROD_1926,SELL_427,1,2023-02-11,18.16,123.16,Debit Card,346.64,Pending,4
+ORD_31088,CUST_3276,PROD_8335,SELL_964,4,2023-08-15,34.49,130.64,UPI,3306.33,Delivered,5
+ORD_1038,CUST_1787,PROD_3342,SELL_163,1,2023-01-08,7.59,17.08,Cash on Delivery,532.9,Cancelled,5
+ORD_1177,CUST_2039,PROD_6446,SELL_555,3,2023-01-09,15.1,197.74,Net Banking,1349.73,Delivered,5
+ORD_47487,CUST_4595,PROD_265,SELL_422,1,2023-12-12,42.14,7.44,Cash on Delivery,232.47,Pending,2
+ORD_30306,CUST_2915,PROD_9156,SELL_678,2,2023-08-09,34.32,130.45,UPI,2990.23,Cancelled,5
+ORD_37089,CUST_826,PROD_5021,SELL_964,4,2023-09-28,32.17,122.13,Net Banking,1020.16,Delivered,3
+ORD_47763,CUST_4670,PROD_2072,SELL_376,3,2023-12-14,34.48,51.42,UPI,735.25,Pending,2
+ORD_45689,CUST_2429,PROD_3844,SELL_86,2,2023-11-29,13.96,86.43,Net Banking,1497.29,Pending,1
+ORD_25767,CUST_2551,PROD_8144,SELL_63,3,2023-07-07,38.68,53.97,Net Banking,3627.31,Pending,4
+ORD_22595,CUST_3467,PROD_9203,SELL_11,1,2023-06-14,10.35,36.26,Cash on Delivery,635.22,Cancelled,4
+ORD_13927,CUST_2133,PROD_2234,SELL_181,2,2023-04-12,23.64,159.56,Credit Card,717.34,Cancelled,3
+ORD_10577,CUST_2944,PROD_5518,SELL_908,3,2023-03-18,27.91,135.57,UPI,4516.42,Delivered,1
+ORD_25444,CUST_1759,PROD_2896,SELL_23,1,2023-07-05,16.26,105.7,Debit Card,1524.42,Cancelled,4
+ORD_17120,CUST_4639,PROD_7692,SELL_69,5,2023-05-05,42.87,112.55,UPI,7193.17,Delivered,2
+ORD_46317,CUST_2176,PROD_8184,SELL_964,2,2023-12-04,45.78,79.51,Debit Card,1284.01,Delivered,2
+ORD_175,CUST_619,PROD_9446,SELL_982,4,2023-01-02,7.13,60.37,Credit Card,110.0,Delivered,3
+ORD_49247,CUST_2676,PROD_9786,SELL_443,1,2023-12-25,4.29,196.85,UPI,487.5,Delivered,3
+ORD_27214,CUST_879,PROD_2006,SELL_908,3,2023-07-18,37.12,129.53,Credit Card,4964.9,Cancelled,1
+ORD_31043,CUST_1657,PROD_5733,SELL_619,2,2023-08-14,17.93,172.01,Debit Card,1979.08,Cancelled,1
+ORD_1421,CUST_1910,PROD_867,SELL_47,1,2023-01-11,38.12,19.55,Debit Card,644.07,Cancelled,3
+ORD_13814,CUST_2884,PROD_737,SELL_462,2,2023-04-11,23.68,174.86,Net Banking,223.6,Delivered,2
+ORD_1699,CUST_3240,PROD_9677,SELL_435,2,2023-01-13,27.24,162.8,UPI,3748.06,Delivered,5
+ORD_49273,CUST_3392,PROD_470,SELL_311,3,2023-12-25,13.18,20.02,UPI,5698.38,Cancelled,5
+ORD_37210,CUST_4984,PROD_8130,SELL_595,4,2023-09-28,29.39,145.29,UPI,1000.62,Delivered,3
+ORD_7873,CUST_1339,PROD_4575,SELL_699,1,2023-02-27,44.75,179.52,Net Banking,1194.87,Cancelled,1
+ORD_6220,CUST_1905,PROD_2960,SELL_519,3,2023-02-15,11.47,182.78,UPI,4670.0,Cancelled,1
+ORD_5868,CUST_3274,PROD_1145,SELL_699,2,2023-02-12,25.13,162.05,UPI,247.58,Cancelled,1
+ORD_14237,CUST_4142,PROD_6175,SELL_876,3,2023-04-14,43.77,113.6,Debit Card,212.86,Pending,3
+ORD_46265,CUST_1760,PROD_7686,SELL_579,4,2023-12-03,11.26,31.84,Cash on Delivery,2349.02,Pending,3
+ORD_8783,CUST_4806,PROD_7412,SELL_17,2,2023-03-05,31.86,19.83,Net Banking,3738.77,Pending,3
+ORD_17860,CUST_4904,PROD_1299,SELL_344,3,2023-05-11,44.73,136.59,Cash on Delivery,2914.8,Delivered,5
+ORD_19105,CUST_2420,PROD_6126,SELL_28,4,2023-05-20,9.09,86.58,Cash on Delivery,4108.71,Delivered,2
+ORD_2927,CUST_3889,PROD_2501,SELL_317,1,2023-01-22,3.2,90.19,Debit Card,1726.71,Pending,2
+ORD_20344,CUST_1980,PROD_855,SELL_828,5,2023-05-29,35.49,8.92,UPI,7213.27,Cancelled,1
+ORD_4738,CUST_4665,PROD_3683,SELL_394,2,2023-02-04,35.6,171.1,Net Banking,862.56,Delivered,3
+ORD_17182,CUST_4654,PROD_7979,SELL_434,3,2023-05-06,23.95,119.81,Cash on Delivery,5649.74,Pending,3
+ORD_35134,CUST_3792,PROD_5831,SELL_307,1,2023-09-13,41.19,41.32,Debit Card,1973.32,Delivered,5
+ORD_17915,CUST_655,PROD_9608,SELL_686,3,2023-05-11,25.98,109.86,Net Banking,4855.02,Cancelled,2
+ORD_22794,CUST_1839,PROD_524,SELL_686,3,2023-06-15,45.73,92.77,Cash on Delivery,3959.91,Pending,2
+ORD_40929,CUST_2718,PROD_7598,SELL_8,2,2023-10-25,32.27,133.67,Net Banking,3806.7,Cancelled,4
+ORD_46892,CUST_832,PROD_8993,SELL_41,2,2023-12-08,20.59,74.58,Credit Card,1498.19,Delivered,2
+ORD_26038,CUST_3561,PROD_2217,SELL_38,3,2023-07-09,39.38,163.83,Cash on Delivery,3514.4,Cancelled,5
+ORD_26668,CUST_4523,PROD_8450,SELL_409,4,2023-07-14,10.96,168.66,Net Banking,3956.66,Pending,4
+ORD_4821,CUST_4038,PROD_5196,SELL_752,5,2023-02-05,37.86,130.92,Cash on Delivery,6633.09,Pending,3
+ORD_18541,CUST_3075,PROD_8491,SELL_800,4,2023-05-15,20.19,44.6,Net Banking,1898.11,Pending,2
+ORD_23722,CUST_4950,PROD_988,SELL_27,1,2023-06-22,9.3,96.98,Debit Card,1029.9,Cancelled,2
+ORD_39765,CUST_1465,PROD_5567,SELL_466,5,2023-10-17,40.05,199.94,Cash on Delivery,5507.11,Pending,1
+ORD_32609,CUST_1608,PROD_2752,SELL_739,1,2023-08-26,3.73,79.15,UPI,-22.85,Delivered,3
+ORD_31055,CUST_962,PROD_628,SELL_430,1,2023-08-15,29.17,9.26,UPI,2014.45,Pending,4
+ORD_49454,CUST_3216,PROD_849,SELL_530,1,2023-12-27,43.8,23.17,Net Banking,212.91,Pending,2
+ORD_44484,CUST_1514,PROD_4634,SELL_619,3,2023-11-20,24.86,41.91,Net Banking,4816.46,Cancelled,1
+ORD_28310,CUST_4726,PROD_7276,SELL_199,1,2023-07-26,6.28,161.03,Credit Card,530.2,Cancelled,2
+ORD_25138,CUST_2333,PROD_7557,SELL_531,5,2023-07-03,28.68,48.98,Cash on Delivery,4798.5,Delivered,5
+ORD_45607,CUST_3397,PROD_2559,SELL_454,5,2023-11-29,34.83,74.96,Credit Card,4536.82,Pending,3
+ORD_16594,CUST_3883,PROD_8479,SELL_345,1,2023-05-01,2.8,141.72,Net Banking,1311.03,Cancelled,4
+ORD_43589,CUST_4052,PROD_4147,SELL_530,4,2023-11-14,17.28,102.43,Credit Card,6058.41,Cancelled,1
+ORD_34216,CUST_3084,PROD_1303,SELL_622,1,2023-09-07,13.53,48.03,Net Banking,165.44,Pending,2
+ORD_39908,CUST_2348,PROD_4144,SELL_152,1,2023-10-18,39.05,125.74,Net Banking,794.24,Cancelled,5
+ORD_46047,CUST_193,PROD_32,SELL_545,1,2023-12-02,26.8,151.91,UPI,1062.64,Pending,1
+ORD_46812,CUST_2827,PROD_6091,SELL_891,2,2023-12-07,21.64,100.7,UPI,1062.14,Pending,5
+ORD_36223,CUST_4221,PROD_6548,SELL_607,5,2023-09-21,36.99,123.03,UPI,673.91,Delivered,4
+ORD_45699,CUST_1455,PROD_1033,SELL_451,2,2023-11-29,42.93,11.2,Net Banking,1406.59,Pending,4
+ORD_26975,CUST_2834,PROD_3876,SELL_493,3,2023-07-16,28.44,126.5,Net Banking,1559.47,Pending,2
+ORD_38525,CUST_4438,PROD_4075,SELL_47,1,2023-10-08,17.27,140.58,UPI,1148.63,Pending,4
+ORD_22071,CUST_4985,PROD_1912,SELL_252,4,2023-06-10,16.06,184.62,Net Banking,5600.2,Delivered,1
+ORD_29961,CUST_173,PROD_1438,SELL_964,5,2023-08-07,10.8,199.76,Net Banking,6015.99,Pending,5
+ORD_31976,CUST_2631,PROD_1847,SELL_420,3,2023-08-21,15.81,56.99,Credit Card,5600.65,Delivered,5
+ORD_38340,CUST_691,PROD_2588,SELL_103,2,2023-10-07,23.37,172.55,Cash on Delivery,3296.38,Pending,1
+ORD_18523,CUST_877,PROD_1048,SELL_495,2,2023-05-15,30.91,61.9,Credit Card,3046.83,Pending,3
+ORD_24811,CUST_1085,PROD_8971,SELL_124,1,2023-06-30,10.01,24.35,Credit Card,1609.15,Pending,3
+ORD_19282,CUST_3184,PROD_2591,SELL_309,5,2023-05-21,13.31,1.22,Debit Card,2974.44,Delivered,2
+ORD_39875,CUST_869,PROD_3087,SELL_226,4,2023-10-18,36.71,119.89,UPI,7178.22,Delivered,4
+ORD_4809,CUST_2580,PROD_7457,SELL_478,1,2023-02-05,34.02,58.65,Cash on Delivery,1278.16,Delivered,1
+ORD_12515,CUST_2243,PROD_274,SELL_81,3,2023-04-02,41.4,109.67,Credit Card,1117.33,Cancelled,1
+ORD_3620,CUST_2855,PROD_9989,SELL_899,3,2023-01-27,31.19,111.58,Debit Card,775.78,Delivered,2
+ORD_27620,CUST_4453,PROD_8210,SELL_637,2,2023-07-21,49.83,103.68,Cash on Delivery,2581.27,Pending,2
+ORD_6497,CUST_3873,PROD_2457,SELL_921,5,2023-02-17,3.33,137.36,Debit Card,-30.28,Delivered,5
+ORD_534,CUST_4941,PROD_295,SELL_813,2,2023-01-04,2.82,85.78,Credit Card,2518.24,Pending,3
+ORD_43892,CUST_1175,PROD_4315,SELL_251,2,2023-11-16,31.77,80.87,UPI,1622.9,Delivered,2
+ORD_39892,CUST_905,PROD_5499,SELL_623,1,2023-10-18,26.66,157.8,UPI,-45.4,Pending,5
+ORD_40407,CUST_1901,PROD_3611,SELL_87,1,2023-10-22,25.63,28.08,Cash on Delivery,1154.23,Delivered,4
+ORD_936,CUST_4914,PROD_9839,SELL_604,2,2023-01-07,35.88,109.54,Credit Card,1875.06,Pending,4
+ORD_36945,CUST_3840,PROD_867,SELL_731,4,2023-09-26,22.2,197.32,Cash on Delivery,1193.64,Pending,2
+ORD_11579,CUST_3358,PROD_3220,SELL_865,2,2023-03-26,28.52,111.97,Debit Card,3749.33,Delivered,4
+ORD_9281,CUST_526,PROD_4284,SELL_430,2,2023-03-09,44.8,51.91,UPI,3817.97,Delivered,4
+ORD_33623,CUST_2241,PROD_9072,SELL_210,5,2023-09-02,28.09,30.71,Cash on Delivery,572.13,Delivered,5
+ORD_17407,CUST_3048,PROD_5690,SELL_902,2,2023-05-07,34.83,4.31,UPI,2008.38,Cancelled,3
+ORD_43366,CUST_2787,PROD_1111,SELL_656,5,2023-11-12,7.39,56.21,Net Banking,1021.18,Pending,4
+ORD_2473,CUST_1005,PROD_9292,SELL_337,4,2023-01-18,7.16,38.61,Net Banking,1791.75,Pending,5
+ORD_22668,CUST_3461,PROD_2303,SELL_123,2,2023-06-15,10.95,25.97,UPI,3140.18,Delivered,4
+ORD_47489,CUST_811,PROD_4649,SELL_681,5,2023-12-12,3.41,50.4,Net Banking,5250.81,Pending,2
+ORD_20181,CUST_4491,PROD_698,SELL_859,4,2023-05-27,41.28,170.17,UPI,535.03,Delivered,1
+ORD_36035,CUST_421,PROD_2388,SELL_939,1,2023-09-20,33.48,145.93,Cash on Delivery,951.05,Cancelled,2
+ORD_3967,CUST_3689,PROD_8223,SELL_463,3,2023-01-29,3.79,167.3,Debit Card,4618.01,Delivered,3
+ORD_18363,CUST_4113,PROD_6527,SELL_344,1,2023-05-14,40.26,133.49,UPI,113.38,Cancelled,2
+ORD_312,CUST_3764,PROD_8768,SELL_445,3,2023-01-03,41.8,35.41,Net Banking,64.5,Delivered,1
+ORD_21845,CUST_3109,PROD_6490,SELL_474,1,2023-06-09,15.47,31.08,Debit Card,562.72,Pending,4
+ORD_27504,CUST_1507,PROD_3438,SELL_49,5,2023-07-20,38.99,118.05,Credit Card,1623.39,Pending,4
+ORD_32192,CUST_1509,PROD_9859,SELL_288,5,2023-08-23,26.67,53.27,Cash on Delivery,681.95,Cancelled,4
+ORD_36968,CUST_291,PROD_6167,SELL_22,5,2023-09-27,47.82,96.94,Cash on Delivery,6951.58,Pending,4
+ORD_15993,CUST_1602,PROD_5906,SELL_533,4,2023-04-27,37.19,5.8,Credit Card,5796.15,Delivered,3
+ORD_28541,CUST_3534,PROD_501,SELL_360,2,2023-07-27,35.77,61.89,Credit Card,935.14,Cancelled,1
+ORD_3138,CUST_2225,PROD_3253,SELL_5,2,2023-01-23,37.47,73.1,UPI,1563.97,Delivered,4
+ORD_9145,CUST_855,PROD_4994,SELL_522,2,2023-03-08,47.89,115.24,Cash on Delivery,573.79,Pending,2
+ORD_48758,CUST_3625,PROD_7532,SELL_81,4,2023-12-21,43.74,85.41,Cash on Delivery,1787.97,Cancelled,5
+ORD_19872,CUST_2103,PROD_3969,SELL_452,5,2023-05-25,41.62,67.75,Credit Card,7276.52,Delivered,3
+ORD_22765,CUST_2469,PROD_8437,SELL_907,4,2023-06-15,11.35,195.7,Credit Card,-9.23,Pending,1
+ORD_3836,CUST_375,PROD_1736,SELL_55,2,2023-01-28,29.09,142.7,Cash on Delivery,1073.01,Cancelled,4
+ORD_3603,CUST_4369,PROD_3315,SELL_974,3,2023-01-27,15.48,105.78,Net Banking,4857.81,Cancelled,3
+ORD_14279,CUST_1164,PROD_5398,SELL_26,4,2023-04-14,49.33,179.83,Cash on Delivery,3074.02,Delivered,4
+ORD_20150,CUST_2401,PROD_9968,SELL_628,1,2023-05-27,37.84,36.33,Credit Card,693.33,Pending,3
+ORD_25056,CUST_918,PROD_1192,SELL_189,3,2023-07-02,46.5,15.88,Cash on Delivery,5933.06,Delivered,2
+ORD_39307,CUST_2837,PROD_9478,SELL_895,5,2023-10-14,41.35,80.97,Credit Card,8011.13,Cancelled,5
+ORD_37198,CUST_3698,PROD_5584,SELL_462,4,2023-09-28,19.17,197.72,Net Banking,158.61,Delivered,4
+ORD_48492,CUST_217,PROD_701,SELL_477,3,2023-12-20,28.2,31.79,Net Banking,4651.12,Pending,2
+ORD_40013,CUST_199,PROD_830,SELL_459,2,2023-10-19,13.46,179.74,Credit Card,1275.68,Pending,3
+ORD_31651,CUST_4600,PROD_8138,SELL_402,1,2023-08-19,9.23,181.88,Debit Card,1435.21,Delivered,1
+ORD_12143,CUST_4118,PROD_2904,SELL_733,4,2023-03-30,37.46,162.8,Debit Card,2106.26,Cancelled,1
+ORD_20533,CUST_4515,PROD_6601,SELL_27,3,2023-05-30,23.78,150.96,Credit Card,2711.84,Cancelled,2
+ORD_9493,CUST_3364,PROD_1159,SELL_959,3,2023-03-11,49.31,42.19,Credit Card,3310.63,Cancelled,2
+ORD_17721,CUST_2702,PROD_2293,SELL_733,3,2023-05-10,23.74,90.37,Net Banking,4142.25,Pending,4
+ORD_48829,CUST_3300,PROD_3010,SELL_896,4,2023-12-22,12.92,72.55,Cash on Delivery,861.29,Pending,3
+ORD_44111,CUST_1597,PROD_7674,SELL_735,4,2023-11-18,6.04,153.19,Credit Card,5839.77,Cancelled,4
+ORD_7972,CUST_417,PROD_4797,SELL_744,3,2023-02-28,22.57,8.61,UPI,327.04,Cancelled,4
+ORD_6594,CUST_3712,PROD_8075,SELL_180,2,2023-02-17,20.77,7.72,UPI,2912.95,Delivered,2
+ORD_4025,CUST_2774,PROD_4622,SELL_493,3,2023-01-30,39.17,98.68,Net Banking,3004.48,Delivered,3
+ORD_16247,CUST_2289,PROD_7958,SELL_163,3,2023-04-29,4.75,51.12,UPI,4864.12,Pending,2
+ORD_27116,CUST_2019,PROD_6563,SELL_551,3,2023-07-17,12.15,120.0,Cash on Delivery,5253.18,Pending,3
+ORD_14779,CUST_4939,PROD_5629,SELL_977,2,2023-04-18,7.1,193.67,Cash on Delivery,1177.69,Delivered,5
+ORD_10915,CUST_553,PROD_1069,SELL_574,2,2023-03-21,19.81,168.35,Debit Card,3835.28,Cancelled,3
+ORD_15739,CUST_4248,PROD_1926,SELL_87,3,2023-04-25,16.17,139.11,Debit Card,883.26,Cancelled,1
+ORD_27375,CUST_1904,PROD_1062,SELL_265,2,2023-07-19,28.95,174.15,Net Banking,2826.14,Pending,3
+ORD_26505,CUST_1646,PROD_1628,SELL_277,2,2023-07-12,30.9,157.02,UPI,672.0,Delivered,2
+ORD_40998,CUST_3670,PROD_6342,SELL_248,1,2023-10-26,40.3,163.14,Net Banking,847.21,Cancelled,5
+ORD_38364,CUST_1530,PROD_7782,SELL_436,2,2023-10-07,4.66,34.99,UPI,1548.39,Pending,2
+ORD_41475,CUST_812,PROD_26,SELL_875,2,2023-10-29,49.9,146.08,UPI,2505.36,Delivered,3

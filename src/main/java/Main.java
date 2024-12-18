@@ -61,11 +61,11 @@ public class Main {
                 }
             }
         }
-private static void processAndStoreCustomerData(String inputFilePath, String outputCustomerFilePath) {
+private static void processAndStoreCustomerData(String customerFilePath, String outputCustomerFilePath) {
             CustomerDataManager customerManaging = new CustomerDataManager();
         
             // Step 1: Read the customer data
-            List<Customer> customerData = customerManaging.readData(inputFilePath);
+            List<Customer> customerData = customerManaging.readData(customerFilePath);
             System.out.println("Data read from file: " + customerData.size() + " customers");
         
             // Step 2: Remove duplicates
@@ -89,9 +89,9 @@ private static void processAndStoreCustomerData(String inputFilePath, String out
         
 
     // Method to process and store order data
-private static void processAndStoreOrderData(String inputFilePath, String outputOrderFilePath) {
+private static void processAndStoreOrderData(String orderFilePath, String outputOrderFilePath) {
         OrderDataManager orderManaging = new OrderDataManager();
-        List<Order> orderData = orderManaging.readData(inputFilePath);
+        List<Order> orderData = orderManaging.readData(orderFilePath);
         orderManaging.removeDuplicates(orderData); // Remove duplicates
         orderData = orderManaging.removeRowsWithMissingData(orderData); // Remove invalid data
         orderData = orderManaging.getRandomSample(orderData,200); 
@@ -100,9 +100,9 @@ private static void processAndStoreOrderData(String inputFilePath, String output
     }
 
     // Method to process and store product data
-private static void processAndStoreProductData(String inputFilePath, String outputProductFilePath) {
+private static void processAndStoreProductData(String productFilePath, String outputProductFilePath) {
         ProductDataManager productManaging = new ProductDataManager();
-        List<Product> productData = productManaging.readData(inputFilePath);
+        List<Product> productData = productManaging.readData(productFilePath);
         productManaging.removeDuplicates(productData); // Remove duplicates
         productData = productManaging.removeRowsWithMissingData(productData); // Remove invalid data
         productData=productManaging.getRandomSample(productData,200) ;
@@ -111,7 +111,7 @@ private static void processAndStoreProductData(String inputFilePath, String outp
     }
     
         // Data management menu
-    private static void dataManagementMenu(String customerFilePath, String orderFilePath, String productFilePath,String outputOrderFilePath, String outputCustomerFilePath,String outputProductFilePath) {
+    private static void dataManagementMenu(String customerFilePath, String orderFilePath, String productFilePath,String outputCustomerFilePath,String outputOrderFilePath, String outputProductFilePath) {
             Scanner scanner = new Scanner(System.in);
     
             while (true) {
